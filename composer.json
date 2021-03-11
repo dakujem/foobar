@@ -1,6 +1,7 @@
 {
   "name": "foobar/foobar",
   "description": "foo bar...",
+  "license": "Unlicense",
   "authors": [
     {
       "name": "Andrej Rypák",
