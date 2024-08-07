@@ -8,7 +8,6 @@
       "email": "xrypak@gmail.com"
     }
   ],
-  "type": "project",
   "require": {
     "php": "*"
   }
